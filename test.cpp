@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
-class Point {
-    
+int main() {
+    cout << "hello world!" << endl;
+    return 0;
 }
